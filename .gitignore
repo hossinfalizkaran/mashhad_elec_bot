@@ -11,6 +11,7 @@ config.py
 config_lavan.py
 .Python
 build/
+data/
 develop-eggs/
 dist/
 downloads/

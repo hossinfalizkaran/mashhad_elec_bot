@@ -1,0 +1,122 @@
+[
+  {
+    "user_id": "78486032",
+    "first_name": "Hossein",
+    "username": "HosseinFalizkaranYazdi",
+    "event_type": "start",
+    "event_detail": "",
+    "timestamp": "2025-12-27T17:14:37.383759+00:00"
+  },
+  {
+    "user_id": "78486032",
+    "first_name": "Hossein",
+    "username": "HosseinFalizkaranYazdi",
+    "event_type": "show_price_list",
+    "event_detail": "",
+    "timestamp": "2025-12-27T17:14:40.912114+00:00"
+  },
+  {
+    "user_id": "78486032",
+    "first_name": "Hossein",
+    "username": "HosseinFalizkaranYazdi",
+    "event_type": "search",
+    "event_detail": "س",
+    "timestamp": "2025-12-27T17:16:00.322692+00:00"
+  },
+  {
+    "user_id": "78486032",
+    "first_name": "Hossein",
+    "username": "HosseinFalizkaranYazdi",
+    "event_type": "price_click",
+    "event_detail": "سیم پود",
+    "timestamp": "2025-12-27T17:16:02.367624+00:00"
+  },
+  {
+    "user_id": "175588768",
+    "first_name": "hossein",
+    "username": "",
+    "event_type": "start",
+    "event_detail": "",
+    "timestamp": "2025-12-27T17:17:09.909687+00:00"
+  },
+  {
+    "user_id": "175588768",
+    "first_name": "hossein",
+    "username": "",
+    "event_type": "show_price_list",
+    "event_detail": "",
+    "timestamp": "2025-12-27T17:17:11.626649+00:00"
+  },
+  {
+    "user_id": "175588768",
+    "first_name": "hossein",
+    "username": "",
+    "event_type": "price_click",
+    "event_detail": "سیم پود",
+    "timestamp": "2025-12-27T17:17:12.670419+00:00"
+  },
+  {
+    "user_id": "175588768",
+    "first_name": "hossein",
+    "username": "",
+    "event_type": "search",
+    "event_detail": "س",
+    "timestamp": "2025-12-27T17:17:20.043435+00:00"
+  },
+  {
+    "user_id": "175588768",
+    "first_name": "hossein",
+    "username": "",
+    "event_type": "price_click",
+    "event_detail": "سیم پود",
+    "timestamp": "2025-12-27T17:17:22.804609+00:00"
+  },
+  {
+    "user_id": "78486032",
+    "first_name": "Hossein",
+    "username": "HosseinFalizkaranYazdi",
+    "event_type": "start",
+    "event_detail": "",
+    "timestamp": "2025-12-27T17:20:45.446493+00:00"
+  },
+  {
+    "user_id": "78486032",
+    "first_name": "Hossein",
+    "username": "HosseinFalizkaranYazdi",
+    "event_type": "start",
+    "event_detail": "",
+    "timestamp": "2025-12-28T03:37:15.927632+00:00"
+  },
+  {
+    "user_id": "78486032",
+    "first_name": "Hossein",
+    "username": "HosseinFalizkaranYazdi",
+    "event_type": "show_price_list",
+    "event_detail": "",
+    "timestamp": "2025-12-28T18:00:16.423547+00:00"
+  },
+  {
+    "user_id": "175588768",
+    "first_name": "hossein",
+    "username": "",
+    "event_type": "show_price_list",
+    "event_detail": "",
+    "timestamp": "2025-12-28T18:00:55.992505+00:00"
+  },
+  {
+    "user_id": "175588768",
+    "first_name": "hossein",
+    "username": "",
+    "event_type": "show_price_list",
+    "event_detail": "",
+    "timestamp": "2025-12-28T18:01:04.130675+00:00"
+  },
+  {
+    "user_id": "175588768",
+    "first_name": "hossein",
+    "username": "",
+    "event_type": "price_click",
+    "event_detail": "پارت الکتریک",
+    "timestamp": "2025-12-28T18:01:06.736758+00:00"
+  }
+]

@@ -7,11 +7,14 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+config.py
+config_lavan.py
 .Python
 build/
 develop-eggs/
 dist/
 downloads/
+media/
 eggs/
 .eggs/
 lib/

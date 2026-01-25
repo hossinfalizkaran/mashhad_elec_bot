@@ -1,0 +1,17 @@
+{% extends "admin/base_site.html" %}
+{% block content %}
+<div style="padding: 20px; background: #fff; border: 1px solid #ccc;">
+    <h2>آپلود فایل همکاران (JSON)</h2>
+    <p>فایل خود را انتخاب کنید و دکمه شروع را بزنید.</p>
+    <hr>
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="file" accept=".json" required>
+        <br><br>
+        <button type="submit" class="button" style="background: #79aec8; color: white; padding: 10px 20px; border: none; cursor: pointer;">
+            شروع وارد کردن اطلاعات
+        </button>
+        <a href=".." class="button" style="background: #ccc; color: #333; padding: 10px 20px; text-decoration: none; margin-left: 10px;">انصراف</a>
+    </form>
+</div>
+{% endblock %}

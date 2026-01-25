@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.coverage
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# محیط‌های مجازی پایتون (Virtual Environments)
+# (اگر از virtualenv/venv استفاده می‌کنید)
+venv/
+.env/
+*.venv
+
+# فایل‌های محرمانه
+secrets.py
+config_lavan.py
+config.py
+*.pem
+*.key
+
+# فایل‌های تولیدی
+staticfiles/
